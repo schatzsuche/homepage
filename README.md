@@ -1,4 +1,4 @@
-# Personal Website – schatzsuche.github.io
+# Personal Website
 
 This is my personal website, built to showcase who I am and what I do.
 
