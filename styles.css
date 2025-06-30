@@ -23,14 +23,12 @@ body {
 }
 
 
-
 section {
     display: grid;
     place-items: center;
     align-content: center;
     min-height: 100vh;
 }
-
 
 
 .big {
@@ -71,6 +69,7 @@ footer{
     place-items: center;
     align-content: center;
 }
+
 
 h1{
     scale: 2;
