@@ -110,3 +110,6 @@ nav a:focus {
     text-decoration: underline;
     color: #ff8eec;
 }
+a{
+    color: white;
+}
